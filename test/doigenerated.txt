@@ -1,0 +1,2 @@
+seq1	doi.org/348555/b61234
+seq2	doi.org/f76bff/681932
